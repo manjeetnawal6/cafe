@@ -14,14 +14,14 @@ const photos = {
   friends: 'https://images.unsplash.com/photo-1521017432531-fbd92d768814?auto=format&fit=crop&w=900&q=85',
 }
 const menuItems = [
-  { name: 'Classic Cappuccino', category: 'Hot Coffee', note: 'Espresso, steamed milk & soft foam', price: '₹___', image: photos.latte, tag: 'A café classic' },
-  { name: 'Velvet Latte', category: 'Hot Coffee', note: 'Smooth espresso with silky milk', price: '₹___', image: photos.coffee, tag: 'Smooth & mellow' },
-  { name: 'Iced Coffee', category: 'Cold Coffee', note: 'Chilled coffee over ice', price: '₹___', image: photos.beans, tag: 'Cool favourite' },
-  { name: 'Mocha Cloud', category: 'Signature Beverages', note: 'Coffee with a rich chocolate twist', price: '₹___', image: photos.latte, tag: 'Something special' },
-  { name: 'Masala Chai', category: 'Tea & Refreshments', note: 'A comforting spiced tea', price: '₹___', image: photos.coffee, tag: 'Comfort in a cup' },
-  { name: 'Garden Sandwich', category: 'Snacks & Quick Bites', note: 'A light, satisfying café bite', price: '₹___', image: photos.dessert, tag: 'Easy favourite' },
-  { name: 'Chocolate Brownie', category: 'Desserts', note: 'A little something sweet', price: '₹___', image: photos.dessert, tag: 'Sweet moment' },
-  { name: 'Seasonal Cooler', category: 'Signature Beverages', note: 'A refreshing seasonal sip', price: '₹___', image: photos.beans, tag: 'Fresh pick' },
+  { name: 'Classic Cappuccino', category: 'Hot Coffee', note: 'Espresso, steamed milk & soft foam', price: '₹149', image: photos.latte, tag: 'A café classic' },
+  { name: 'Velvet Latte', category: 'Hot Coffee', note: 'Smooth espresso with silky milk', price: '₹169', image: photos.coffee, tag: 'Smooth & mellow' },
+  { name: 'Iced Coffee', category: 'Cold Coffee', note: 'Chilled coffee over ice', price: '₹129', image: photos.beans, tag: 'Cool favourite' },
+  { name: 'Mocha Cloud', category: 'Signature Beverages', note: 'Coffee with a rich chocolate twist', price: '₹189', image: photos.latte, tag: 'Something special' },
+  { name: 'Masala Chai', category: 'Tea & Refreshments', note: 'A comforting spiced tea', price: '₹49', image: photos.coffee, tag: 'Comfort in a cup' },
+  { name: 'Garden Sandwich', category: 'Snacks & Quick Bites', note: 'A light, satisfying café bite', price: '₹149', image: photos.dessert, tag: 'Easy favourite' },
+  { name: 'Chocolate Brownie', category: 'Desserts', note: 'A little something sweet', price: '₹99', image: photos.dessert, tag: 'Sweet moment' },
+  { name: 'Seasonal Cooler', category: 'Signature Beverages', note: 'A refreshing seasonal sip', price: '₹119', image: photos.beans, tag: 'Fresh pick' },
 ]
 const categories = ['All', 'Hot Coffee', 'Cold Coffee', 'Signature Beverages', 'Tea & Refreshments', 'Snacks & Quick Bites', 'Desserts']
 const gallery = [
